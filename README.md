@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love yoga, dancing, camping and backpacking. Recently I conquered Half-Dome! 
 -->
 [![Rozeta's github stats](https://github-readme-stats.vercel.app/api?username=ro-zeta)](https://github.com/ro-zeta/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-zeta&langs_count=5&theme=tokyonight)]()
